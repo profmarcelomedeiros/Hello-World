@@ -1,6 +1,9 @@
 	body{ background-color: #010808;
 	color: rgb(255, 255, 255);
   }
+  h2 {
+    color: orange;
+  }
 .texto-inglês{
     font-style: italic;
 }
